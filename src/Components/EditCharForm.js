@@ -2,7 +2,7 @@ import React from 'react'
 
 class EditCharForm extends React.Component {
 
-	state = {hobbies: this.props.char.hobbies}
+	state = {hobbies: ""}
 
 	localUpdateHobbies = (e) => {
 		this.setState({hobbies: e.target.value})
@@ -17,7 +17,7 @@ class EditCharForm extends React.Component {
 		return (
 			<form onSubmit={this.localSubmit}>
 				<label htmlFor="Hobbies"><strong>Hobbies: </strong></label>
-				<input type="text" name="hobbies" value={this.state.hobbies} onChange={this.localUpdateHobbies} /><br />
+				<input type="text" name="hobbies" placeholder={this.props.char.hobbies} value={this.state.hobbies} onChange={this.localUpdateHobbies} /><br />
 				<button>Update Hobbies</button>
 			</form>
 		)

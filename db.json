@@ -6,9 +6,7 @@
       "occupation": "FBI Agent",
       "img": "https://mk0industcomhmhlrip6.kinstacdn.com/wp-content/uploads/2017/05/dale-cooper-1.jpg",
       "hobbies": [
-        "coffee",
-        "yoga",
-        "pie"
+        "coffee"
       ]
     },
     {
@@ -20,17 +18,6 @@
         "donuts",
         "fishing",
         "Bookhouse Boys"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Shelly Johnson",
-      "occupation": "Waitress",
-      "img": "https://visittwinpeaks.com/wp-content/uploads/2015/05/shelly-johnson.jpeg",
-      "hobbies": [
-        "Twin Peaks Pageant",
-        "hot cars",
-        "Bobby Briggs"
       ]
     },
     {
