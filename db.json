@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Dale Cooper",
+      "occupation": "FBI Agent",
+      "img": "https://mk0industcomhmhlrip6.kinstacdn.com/wp-content/uploads/2017/05/dale-cooper-1.jpg",
+      "hobbies": [
+        "coffee",
+        "yoga",
+        "pie"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Harry S. Truman",
+      "occupation": "Sheriff",
+      "img": "https://static.wikia.nocookie.net/twinpeaks/images/c/c7/HarryNew.jpg",
+      "hobbies": [
+        "donuts",
+        "fishing",
+        "Bookhouse Boys"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Shelly Johnson",
+      "occupation": "Waitress",
+      "img": "https://visittwinpeaks.com/wp-content/uploads/2015/05/shelly-johnson.jpeg",
+      "hobbies": [
+        "Twin Peaks Pageant",
+        "hot cars",
+        "Bobby Briggs"
+      ]
+    },
+    {
+      "name": "Big Ed Hurley",
+      "occupation": "Owns a gas station",
+      "img": "https://twinpeaksfreaks.files.wordpress.com/2014/06/ed2.jpg",
+      "hobbies": [
+        "Norma",
+        " cars"
+      ],
+      "id": 4
+    }
+  ]
+}
